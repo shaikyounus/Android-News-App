@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News app</string>
+    <string name="aboutDevText">Hello Guys!!\n
+         \nI have developed a news app for knowing things that are happening day by day.\n
+         \nThis is an initial contribution from my side to showcase my skills. .\n
+         \nJust Trying to implement whatever I learn and make a tinny dent in the universe.</string>
+</resources>
